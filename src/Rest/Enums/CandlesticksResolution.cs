@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace TradeHubSharp.Rest.Enums
+namespace TradeHub.Rest.Enums
 {
     public enum CandlesticksResolution
     {

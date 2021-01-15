@@ -1,9 +1,9 @@
 ﻿using System.Threading;
 using System.Threading.Tasks;
 using Refit;
-using TradeHubSharp.Rest.Requests;
+using TradeHub.Rest.Requests;
 
-namespace TradeHubSharp.Rest
+namespace TradeHub.Rest
 {
     public interface IPrivateApi
     {

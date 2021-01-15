@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text.Json.Serialization;
 
-namespace TradeHubSharp.Rest.Responses
+namespace TradeHub.Rest.Responses
 {
     public class TransactionResponse
     {

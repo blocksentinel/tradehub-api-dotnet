@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace TradeHubSharp.Rest.Responses
+namespace TradeHub.Rest.Responses
 {
     public class BalanceResponse : Dictionary<string, BalanceResponse.BalanceItem>
     {

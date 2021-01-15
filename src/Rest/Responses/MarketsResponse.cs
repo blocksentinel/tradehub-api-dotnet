@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text.Json.Serialization;
 
-namespace TradeHubSharp.Rest.Responses
+namespace TradeHub.Rest.Responses
 {
     public class MarketsResponse : List<MarketsResponse.MarketItem>
     {

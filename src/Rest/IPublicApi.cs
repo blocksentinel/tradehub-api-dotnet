@@ -1,11 +1,11 @@
 ﻿using System.Threading;
 using System.Threading.Tasks;
 using Refit;
-using TradeHubSharp.Rest.Enums;
-using TradeHubSharp.Rest.Requests;
-using TradeHubSharp.Rest.Responses;
+using TradeHub.Rest.Enums;
+using TradeHub.Rest.Requests;
+using TradeHub.Rest.Responses;
 
-namespace TradeHubSharp.Rest
+namespace TradeHub.Rest
 {
     public interface IPublicApi
     {

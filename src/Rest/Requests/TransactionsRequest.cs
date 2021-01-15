@@ -1,6 +1,6 @@
 ﻿using Refit;
 
-namespace TradeHubSharp.Rest.Requests
+namespace TradeHub.Rest.Requests
 {
     public class TransactionsRequest
     {
