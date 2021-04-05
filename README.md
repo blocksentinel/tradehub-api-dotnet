@@ -10,6 +10,7 @@ This is an adaptation the API SDK we use internally for [Stakeo](https://stakeo.
 
 * [Switcheo TradeHub API Docs](https://docs.switcheo.org)
 * [TradeHub API JS SDK](https://github.com/Switcheo/tradehub-api-js)
+* [TradeHub API Python SDK](https://github.com/Mai-Te-Pora/tradehub-python)
 
 ## Contributing to this project
 
